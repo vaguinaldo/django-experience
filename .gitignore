@@ -128,5 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+.DS_Store
 
-.env_gen.py
+media/
+staticfiles/
+.idea
+.ipynb_checkpoints/
+.vscode
